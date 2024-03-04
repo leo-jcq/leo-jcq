@@ -4,15 +4,15 @@ I'm a 20-year-old developer based in France, and I'm passionate about crafting w
 
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Angular`
+**Frontend Development:** `React` `TypeScript` `Angular`
 
-**Backend Development:** `Node.js` `.NET`
+**Backend Development:** `Next.js` `Node.js` `.NET`
  
 **Version Control:** `Git` `GitHub` `GitLab` `Azure DevOps`
 
 **Testing:** `Cypress` `Vitest`
 
-**Others:** `Postman`
+**Others:** `Figma` `Postman`
 
 ## 📫 Contact
 
