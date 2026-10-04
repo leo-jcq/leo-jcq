@@ -1,6 +1,6 @@
 # Hey, I'm Léo 👋
 
-I'm a 22-year-old developer based in France, and I'm passionate about crafting websites.
+I'm a 23-year-old developer based in France, and I'm passionate about crafting websites.
 
 ## 💻 Frontend
 
